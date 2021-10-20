@@ -1,4 +1,4 @@
-chitmanager
+# CHIT MANAGER
 ===========
 
 Chit Management Software
